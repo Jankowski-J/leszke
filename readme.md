@@ -10,7 +10,7 @@ sudo chmod +x install-leszke.sh
 sudo ./install-leszke.sh
 ```
 
-Po tym, można używać ```leszke`` z terminala:
+Po tym, można używać `leszke` z terminala:
 ```
 leszke
 ```
